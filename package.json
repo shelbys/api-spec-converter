@@ -1,6 +1,6 @@
 {
   "name": "api-spec-converter",
-  "version": "2.11.2",
+  "version": "2.12.0",
   "engines": {
     "node": ">=6.0.0"
   },
@@ -55,25 +55,18 @@
     ]
   },
   "dependencies": {
-    "apib2swagger": "^1.9.0",
     "bluebird": "^3.7.2",
     "commander": "^2.20.0",
     "composite-error": "^0.1.1",
     "deep-sort-object": "^1.0.2",
-    "drafter.js": "^2.6.7",
-    "google-discovery-to-swagger": "^2.0.0",
     "js-yaml": "^3.14.0",
     "lodash": "^4.17.19",
     "lodash.clonedeep": "^4.5.0",
-    "raml-parser": "^0.8.18",
-    "raml-to-swagger": "^1.1.0",
     "request": "^2.88.2",
     "source-map": "0.6.0",
-    "swagger-converter": "git+https://github.com/shelbys/swagger-converter.git",
-    "swagger2openapi": "2.9.*",
     "sway": "^2.0.5",
     "traverse": "^0.6.6",
-    "urijs": "^1.18.10",
+    "urijs": "^1.19.5",
     "xml2js": "^0.4.23"
   },
   "devDependencies": {
